@@ -1,0 +1,11 @@
+var nome = "Felipe "
+console.log (nome)
+var nota1 = 8
+var nota2 = 6
+var nota3 = 8
+var mediaNotas = (nota1 + nota2 + nota3) / 3
+console.log (mediaNotas)
+if (mediaNotas >= 7)
+console.log ("Aprovado")
+else
+console.log ("Reprovado")
